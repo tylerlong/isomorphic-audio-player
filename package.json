@@ -1,0 +1,19 @@
+{
+  "name": "isomorphic-audio-player",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "node.js",
+  "browser": "browser.js",
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "yarn-upgrade-all": "^0.5.2"
+  },
+  "peerDependencies": {
+    "speaker": "^0.4.2",
+    "wrtc": "^0.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerlong/isomorphic-audio-player.git"
+  }
+}
